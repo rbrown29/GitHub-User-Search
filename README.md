@@ -1,4 +1,17 @@
 ### GitHub User Search
+
+### Tecnologies Used
+
+* NODE JS
+* REACT
+* JAVASCRIPT
+* CSS
+* HTML
+
+![GitHub](/pic1.png?raw=true{:height="50px"width="50px"})
+![GitHub](/pic2.png?raw=true{:height="50px"width="50px"})
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
