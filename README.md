@@ -8,6 +8,7 @@
 * CSS
 * HTML
 
+![GitHub](/pic3.png?raw=true{:height="50px"width="50px"})
 ![GitHub](/pic1.png?raw=true{:height="50px"width="50px"})
 ![GitHub](/pic2.png?raw=true{:height="50px"width="50px"})
 
