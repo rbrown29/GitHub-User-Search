@@ -67,7 +67,7 @@ class GitHub extends Component {
                     <Button type="submit">Search</Button>
                 </Form>
                     <h3>GitHub Users Results</h3>
-                    {this.state.isLoading ? <ReactLoading type="spinningBubbles" color="#444" /> : listUsers}
+                    {this.state.isLoading ? <ReactLoading type="spinningBubbles" color="#444" className='spin' /> : listUsers}
             </div>
         )
     }
