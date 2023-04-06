@@ -18,7 +18,7 @@ class Product extends Component {
                         className="mr-3"
                         src={this.props.data.imageUrl}
                         alt="Image"
-                    />
+                    ></img>
                 
                 <Media.Body>
                     <h5>{this.props.data.productName}</h5>
